@@ -10,12 +10,12 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`Bentley+By+Marisel`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00010G&center=true&vCenter=true&multiline=false&lines=`Bentley+By+Marisel`" alt="">
 
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=BENTLEY &description=THE%20FORGOTEN%20PEOJECT%20&image=https://i.imgur.com/9HSoYEI.jpeg?v=4&backgroundColor=%23ecf0f1&github=Betingrich&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=BENTLEY &description=THE%20FORGOTEN%20PEOJECT%20&image=https://i.imgur.com/9HSoYEI.jpegv=4&backgroundColor=%23ecf0f1&github=Betingrich&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 <br>
