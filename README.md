@@ -33,7 +33,7 @@ src="https://cardivo.vercel.app/api?name=BENTLEY &description=THE%20FORGOTEN%20P
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/betingrich3/count.svg" /><br>SILENT-SOBX-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/betingrich3/count.svg" /><br>BENTLEY</div>
 
 ------------
 
@@ -172,17 +172,3 @@ jobs:
     - name: Start application
       run: npm start
 ```
-
------------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
----------
-![IMG-20240330-WA0000](https://github.com/user-attachments/assets/62d3bffd-d1ec-4cb9-a5b1-28b745b90a90)
--------------------
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
------------
-***Thanks For Loving My Bot Incase of any Problem Just Inbox me***
-------------
-![license](https://img.shields.io/github/license/betingrich3/Bentley?color=green&label=License&style=plastic)
-----------
