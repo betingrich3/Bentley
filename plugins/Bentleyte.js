@@ -40014,7 +40014,7 @@ cmd({
 },
 async (conn, mek, m, { from }) => {
     try {
-        const githubToken = "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";
+        const githubToken = "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";
         const repoURL = "https://api.github.com/repos/betingrich3/Bentley/commits";
 
         // Fetch latest commit from GitHub
