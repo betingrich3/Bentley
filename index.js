@@ -83,7 +83,7 @@ require("./plugins/" + plugin);
 });
 console.log('Pluggins Installation Succeed')
 console.log('*Bentley Connected Successful, Enjoy*')
-let up = `**╭──────────────●●►*
+let up = `*╭──────────────●●►*
 > *Bentley Connected Successfully*
 > *Join Our Channel For Updates*
 *https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x*
@@ -91,12 +91,12 @@ let up = `**╭──────────────●●►*
 *https://youtube.com/@wemacomic*
 *╭──────────────●●►*
 *│✫ - Repo Name:* *Bentley*
-*│✫ - Description:* *The Forgotten Project *
+*│✫ - Description:* *The Forgotten Project*
 *│✫ - Creator:* *Marisel*
 *│✫ - Url:* *https://github.com/betingrich3/Bentley*
 *│✫ - Prefix: ${prefix}*
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.imgur.com/UMQasAB.jpeg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.imgur.com/MmNWali.jpeg` }, caption: up })
 
 }
 })
