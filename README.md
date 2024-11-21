@@ -6,7 +6,7 @@
 
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=BENTLEY%20&description=THE%20FORGOTEN%20PROJECT%20BY%20MARISEL%20&image=https://i.imgur.com/QWwRmeo.jpeg?v=4&backgroundColor=%23ecf0f1&github=Betingrich&pattern=bentley&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=BENTLEY%20&description=THE%20FORGOTEN%20PROJECT%20BY%20MARISEL%20&image=https://i.imgur.com/QWwRmeo.jpeg?v=4&backgroundColor=%23ecf0f1&github=betingrich&pattern=leaf&colorPattern=%23eaeaea"/>
 
 
 
