@@ -33,17 +33,16 @@ src="https://cardivo.vercel.app/api?name=BENTLEY%20&description=THE%20FORGOTEN%2
 
 
 
-<a href='https://effulgent-basbousa-1bfe4a.netlify.app/' target="_blank"><img alt='DEPLOY' src='https://bentley-408f8a19e3c5.herokuapp.com/?color=orange&style=for-the-badge&logo=bentley'/></a></p>
-
+<a href='https://bentley-408f8a19e3c5.herokuapp.com/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/PAIR CODE-h?color=orange&style=for-the-badge&logo=bentley'/></a></p>
 
  
 ### <br>    DEPLOY_HEROKU 
 
-`IF YOU WANT TO DEPLOY JOEL-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
+`IF YOU WANT TO DEPLOY ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT`
 
  
 
-<a href='https://effulgent-basbousa-1bfe4a.netlify.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/HEROKU-h?color=orange&style=for-the-badge&logo=bentley'/></a></p>
+<a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbetingrich3%2FBentley' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/HEROKU-h?color=orange&style=for-the-badge&logo=bentley'/></a></p>
 
 
 
@@ -161,7 +160,7 @@ jobs:
 
 
 
-<a href='254740007567' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CONTACT ME-h?color=orange &style=for-the-badge&logo=bentley'/></a></p>
+<a href='+254740007567' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CONTACT ME-h?color=orange &style=for-the-badge&logo=bentley'/></a></p>
 
 
 
