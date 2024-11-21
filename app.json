@@ -14,7 +14,7 @@
     },  
     
     "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+      "description": "Do not 🚫 Cjange this!",
       "required": true,
       "value": "https://i.imgur.com/if47xws.jpeg,https://i.imgur.com/zMw7iTB.jpeg"
     }, 
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your Mode ie. public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "TYPING": {
