@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.imgur.com/9HSoYEI.jpeg,https://i.imgur.com/zMw7iTB.jpeg"
+      "value": "https://i.imgur.com/if47xws.jpeg,https://i.imgur.com/zMw7iTB.jpeg"
     }, 
     
     "ALIVE_MSG": {
@@ -37,7 +37,7 @@
       "value": "public"
     }, 
 
-    "FAKE_TYPING": {
+    "TYPING": {
       "description": "Make it true if you want bot presence to be Typing.",
       "required": false,
       "value": "false"
@@ -73,29 +73,10 @@
       "value": "false"
     }, 
 
-    "FAKE_RECORDING": {
+    "RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": false,
       "value": "false"
-    },
-
-    "AUTO_REACT": {
-      "description": "Make it true if you want bot AutoReact.",
-      "required": false,
-      "value": "false"
-    },
-
-    "OWNER_REACT": {
-      "description": "Make it true if you want bot OwnerReact.",
-      "required": false,
-      "value": "false"
-    
-    }, 
-
-    "BOT_NAME": {
-      "description": "write hear your name.",
-      "required": true,
-      "value": "Bentley"
     }
 
 },
