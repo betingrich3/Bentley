@@ -10,11 +10,11 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "i2QkRK5B#KWlSYTUu2WxCtDGUhxiNdEo3er3Gv9A4dV4rKClJu6s"
     },  
     
     "ALIVE_IMG": {
-      "description": "Do not 🚫 Cjange this!",
+      "description": "Do not 🚫 Change this!",
       "required": true,
       "value": "https://i.imgur.com/if47xws.jpeg,https://i.imgur.com/zMw7iTB.jpeg"
     }, 
