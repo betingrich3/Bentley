@@ -82,20 +82,20 @@ console.log('*Bentley connected Successfully*')
 let up = `
 *Bentley Connected*
 *╭┈───────────────•*
-*│  ◦* *_All steps Complete. Enjoy_*
-*│  ◦* *Support Channel*
-*│  ◦* *https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x*
-*│  ◦* *Tutorials*
-*│  ◦* *https://youtube.com/@wemacomic*
-*│◦* *Universal Repo*
-*│◦* *https://github.com/betingrich3/Bentley*
+*│ ◦* *_All steps Complete. Enjoy_*
+*│ ◦* *Support Channel*
+*│ ◦* *https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x*
+*│ ◦* *Tutorials*
+*│ ◦* *https://youtube.com/@wemacomic*
+*│ ◦* *Universal Repo*
+*│ ◦* *https://github.com/betingrich3/Bentley*
 *╰┈───────────────•*
 *Session Started Enjoy*\n\n*PREFIX: [${prefix}]*
 *•────────────•⟢*
 > Marisel's Private Bot
 *•────────────•⟢*
 `;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/mcpcp2.jpg` }, caption: up })
 
 }
 })
