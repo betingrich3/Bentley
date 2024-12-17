@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": "i2QkRK5B#KWlSYTUu2WxCtDGUhxiNdEo3er3Gv9A4dV4rKClJu6s"
+      "value": ""
     },  
     
     "ALIVE_IMG": {
